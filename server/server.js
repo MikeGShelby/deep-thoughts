@@ -19,7 +19,8 @@ server.applyMiddleware({ app });
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
-
+// Removing this to determine if this fixes Heroku problems
+// db.once('open', () => {
 
 db.open('open', () => {
   app.listen(PORT, () => {
