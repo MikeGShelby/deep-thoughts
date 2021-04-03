@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description and Purpose
-A MERN stack social media application that allows users to add other users to a friend list and to post thoughts and reactions for others to view.
+A MERN stack social media application that allows users to add other users to a friend list and to post thoughts and reactions for others to view and interact with.
 
 ## Table of Contents
   - [Description and Purpose](#description-and-purpose)
@@ -14,7 +14,7 @@ A MERN stack social media application that allows users to add other users to a 
   - [Questions](#questions)
 
 ## Application Screenshot
-![Deep Thoughts screenshot](./src/assets/photo-port-screenshot.jpg "Application Screenshot")
+![Deep Thoughts screenshot](./client/src/assets/deep-thoughts-screenshot.jpg "Application Screenshot")
 
 ## Deployed Application
 https://deep-thoughts-hk.herokuapp.com/profile
